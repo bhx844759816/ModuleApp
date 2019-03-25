@@ -1,0 +1,1 @@
+include ':app', ':common_base', ':common_sdk:common_wifi', ':module_test', ':common_sdk:common_downland'
